@@ -6,13 +6,13 @@ A 2D atmospheric puzzle-adventure about a witch's cat familiar exploring the sur
 
 Pre-production
 
-#Project Goals
+# Project Goals
 
--Design and develop an original 2D game.
--Build reusable gameplay systems using C# and Unity.
--Create original hand-drawn artwork and animation.
--Compose and implement original music and audio.
--Document the complete game-development process.
+- Design and develop an original 2D game.
+- Build reusable gameplay systems using C# and Unity.
+- Create original hand-drawn artwork and animation.
+- Compose and implement original music and audio.
+- Document the complete game-development process.
 
 # Development
 
